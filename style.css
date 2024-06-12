@@ -1,0 +1,13 @@
+.topNav{
+    background: #020815;
+    width: 100%;
+    max-width: none;
+    height: 40px;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.siteLogo {
+}
